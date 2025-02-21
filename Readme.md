@@ -155,7 +155,7 @@ For questions, feedback, or collaborations, feel free to reach out:
 - **Name**: Jiahong Que
 - **Email**: bill.qjh@gmail.com
 - **LinkedIn**: [Jiahong Que](https://www.linkedin.com/in/jiahong-que-215428258/)
-- **GitHub**: [bill-unitech2021](https://github.com/your-username)
+- **GitHub**: [bill-unitech2021](https://github.com/bill-unitech2021)
 
 ---
 
