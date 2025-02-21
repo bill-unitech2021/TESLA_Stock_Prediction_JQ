@@ -153,9 +153,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 For questions, feedback, or collaborations, feel free to reach out:
 
 - **Name**: Jiahong Que
-- **Email**: your-email@example.com
+- **Email**: bill.qjh@gmail.com
 - **LinkedIn**: [Jiahong Que](https://www.linkedin.com/in/jiahong-que-215428258/)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [bill-unitech2021](https://github.com/your-username)
 
 ---
 
